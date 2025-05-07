@@ -37,23 +37,28 @@
   <!--Arduino-->
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
   
-  <br>
-  <br>
+<br>
+<br>
 
 ### 📁 Framework
   <!--Spring-->
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <!--Jupyter-->
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br>
+<br>
+
+### 🎮 Engine
   <!--Unity-->
   <img src="https://img.shields.io/badge/unity-002244?style=for-the-badge&logo=unity&logoColor=white"/>
   <!--Unreal-->
   <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <!--Jupyter-->
-  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-  <br>
-  <br>
+<br>
+<br>
 
 ### 🛠 ETC
   <!--AWS-->
