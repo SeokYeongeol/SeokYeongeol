@@ -10,7 +10,7 @@
 
 ## 🖋 About Me
 #### 🙋 : I am a backend developer from South Korea
-#### 🔥 : I aim to become a game developer and backend developer
+#### 🔥 : I aim to become a backend developer
 <br/>
 <br/>
 
