@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/unity-002244?style=for-the-badge&logo=unity&logoColor=white"/>
   <!--Unreal-->
   <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <!--Jupyter-->
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
   <br>
   <br>
