@@ -100,8 +100,8 @@
 <br/>
 
 ## 🤔 Github Stats
-[![Yeonboi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokYeongeol)](https://github.com/anuraghazra/github-readme-stats)
+[![Yeonboi's GitHub stats](https://github-readme-stats-one-kohl-19.vercel.app/api?username=SeokYeongeol)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokYeongeol)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-kohl-19.vercel.app/api/top-langs/?username=SeokYeongeol)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
